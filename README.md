@@ -1,10 +1,10 @@
-<h1 align="center">Flipper Zero Designs</h1>
+<h1 align="center">Flipper Zero Graphics</h1>
 <p align="center">
  <img src="https://img.shields.io/github/license/90N45-d3v/flipperzero-designs.svg">
  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
 </p>
 <p align="center">
-  Collection of designs I made for the Flipper Zero
+  Collection of graphics I made for the Flipper Zero
 </p>
 
 <h2>Animations</h2>
