@@ -10,6 +10,26 @@
 </p>
 
 <h2>Animations</h2>
+<h4>Want to include these animations into an asset pack for usage on your Flipper?</h4>
+
+1. Create an empty folder with the name you want your asset pack to have on your flipper at `SD Card/asset_packs/`
+2. Create an empty folder with the name `Anims` on your flipper at `SD Card/asset_packs/<Folder from 1.>/`
+3. Create a file called `manifest.txt` in the `Anims` folder with the following text in the beginning:
+```
+Filetype: Flipper Animation Manifest
+Version: 1
+```
+4. Append the following text for each animation you want to have in the asset pack
+```
+Name: <Animation's name (ex. DEDSEC)>
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 3
+```
+5. Upload the animations folders onto your flipper at `SD Card/asset_packs/<Folder from 1.>/Anims/`
+
 <h4>DEDSEC</h4>
 
 [DEDSEC-Preview](https://github.com/90N45-d3v/flipperzero-designs/assets/79598596/ca316144-d935-4f45-985f-a6f0193595e9)
