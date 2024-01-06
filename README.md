@@ -4,7 +4,9 @@
  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
 </p>
 <p align="center">
-  Collection of graphics I made for the Flipper Zero
+ Collection of graphics I made for the Flipper Zero.
+ <br>
+ Over time I will continue to create new graphics and add them here.
 </p>
 
 <h2>Animations</h2>
