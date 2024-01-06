@@ -12,8 +12,8 @@
 <h2>Animations</h2>
 <h4>Want to include these animations into an asset pack for usage on your Flipper?</h4>
 
-1. Create an empty folder with the name you want your asset pack to have on your flipper at `SD Card/asset_packs/`
-2. Create an empty folder with the name `Anims` on your flipper at `SD Card/asset_packs/<Folder from 1.>/`
+1. Create an empty folder with the name you want your asset pack to have on your Flipper at `SD Card/asset_packs/`
+2. Create an empty folder with the name `Anims` on your Flipper at `SD Card/asset_packs/<Folder from 1.>/`
 3. Create a file called `manifest.txt` in the `Anims` folder with the following text in the beginning:
 ```
 Filetype: Flipper Animation Manifest
@@ -28,7 +28,8 @@ Min level: 1
 Max level: 30
 Weight: 3
 ```
-5. Upload the animations folders onto your flipper at `SD Card/asset_packs/<Folder from 1.>/Anims/`
+5. Upload the animations folders onto your Flipper at `SD Card/asset_packs/<Folder from 1.>/Anims/`
+6. Select the asset pack in your Flipper's settings
 
 <h4>DEDSEC</h4>
 
